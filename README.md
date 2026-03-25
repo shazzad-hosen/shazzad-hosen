@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Shazzad Hosen
 
-💻 Full Stack Developer From Bangladesh **🇧🇩**
-🔐 Passionate about Secure Authentication, Scalable APIs, Modern And Responsive Desings
-🚀 Building Production-Ready Applications
+💻 Full Stack Developer From Bangladesh **🇧🇩** </br>
+🔐 Passionate about Secure Authentication, Scalable APIs, Modern And Responsive Desings </br>
+🚀 Building Production-Ready Applications </br>
 
 ## 💫 About Me:
 -   🔭 Currently building **production-grade backend systems**
